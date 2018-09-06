@@ -8,12 +8,12 @@ dependencies:
     - "git@github.com:JackTiger/testB.git"
     vcs: "git"
     name: "github.com/JackTiger/testB"
-    commit: "97cec1c38086722eb2a5502567866a2fd8d32bea"
+    commit: "3e315b9ef98e292401f6fc0cd47f842bdda5598c"
     transitive: false
   - name: "github.com/JackTiger/testD"
     host:
       name: "github.com/JackTiger/testB"
-      commit: "97cec1c38086722eb2a5502567866a2fd8d32bea"
+      commit: "3e315b9ef98e292401f6fc0cd47f842bdda5598c"
       url: "git@github.com:JackTiger/testB.git"
       vcs: "git"
     vendorPath: "vendor/github.com/JackTiger/testD"
