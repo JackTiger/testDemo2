@@ -10,7 +10,6 @@ dependencies:
     name: "github.com/JackTiger/testB"
     commit: "3e315b9ef98e292401f6fc0cd47f842bdda5598c"
     transitive: false
-      build:
   - urls:
     - "https://github.com/JackTiger/testD.git"
     - "git@github.com:JackTiger/testD.git"
