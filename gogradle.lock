@@ -15,6 +15,6 @@ dependencies:
     - "git@github.com:JackTiger/testD.git"
     vcs: "git"
     name: "github.com/JackTiger/testD"
-    commit: "66e69fcae2274211df86231d1a24236571f987a1"
+    commit: "c6b94313c27bc221cd08c04254e7c6f926547fc4"
     transitive: false
   test: []
